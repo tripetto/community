@@ -16,11 +16,11 @@ This repository contains a list of providers available in the public (open sourc
   [https://gitlab.com/tripetto/forms/providers/boilerplate](https://gitlab.com/tripetto/forms/providers/boilerplate)
 
 
-- **Simple checkbox** by [Tripetto](https://github.com/tripetto/)
+- **Checkbox** by [Tripetto](https://github.com/tripetto/)
 
   [https://gitlab.com/tripetto/forms/providers/checkbox](https://gitlab.com/tripetto/forms/providers/checkbox)
 
-- **Multiple checkboxes** by [Tripetto](https://github.com/tripetto/)
+- **List of checkboxes** by [Tripetto](https://github.com/tripetto/)
 
   [https://gitlab.com/tripetto/forms/providers/checkboxes](https://gitlab.com/tripetto/forms/providers/checkboxes)
 
