@@ -18,6 +18,10 @@ This repository contains a list of collectors and providers available in the pub
 
   https://gitlab.com/tripetto/forms/examples/react-material-ui
 
+- **Angular collector example** by [Tripetto](https://github.com/tripetto/)
+
+  https://gitlab.com/tripetto/forms/examples/angular
+
 - **Bootstrap collector example** by [Tripetto](https://github.com/tripetto/)
 
   https://gitlab.com/tripetto/forms/examples/bootstrap
