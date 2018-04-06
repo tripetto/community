@@ -1,13 +1,11 @@
-# Tripetto Forms
-[Tripetto Forms](https://forms.tripetto.community) bring a new way of creating and deploying forms in websites and applications. You use its intuitive graphical [editor](https://www.npmjs.com/package/@tripetto/forms-editor) to build and edit smart forms with logic and conditional flows in 2D on a self-organizing drawing board. In any modern browser. Mouse, touch or pen.
+![Tripetto](https://forms.tripetto.community/images/punchline.svg)
 
-![Screen recording - Showcase](https://forms.tripetto.community/images/screen-recordings/showcase.gif)
+Tripetto Forms is a full-fledged form kit. Its graphical [**editor**](https://www.npmjs.com/package/@tripetto/forms-editor) covers powerful form creation – either stand-alone or as a brandable embedded solution. The supplementary [**collector**](https://www.npmjs.com/package/@tripetto/forms-collector) library handles form execution and response collection in any website or application. The UI is truly yours to rock. Also, you can extend both editor and collector with custom [**building blocks**](https://forms.tripetto.community/providers/) (e.g. question types).
 
-Perhaps one of the best things about Tripetto Forms is that you can create your own [collectors](https://forms.tripetto.community/collector/) and [providers](https://forms.tripetto.community/providers/). A typical provider implements a certain form building block and allows for the management of its properties through the editor. We have a [boilerplate](https://gitlab.com/tripetto/forms/providers/boilerplate) to get you started.
-
+# Collectors and providers
 This repository contains a list of collectors and providers available in the public (open source) domain. We hope other enthusiasts will also start to develop stuff for Tripetto Forms.
 
-***If you have created a collector or provider yourself, create a PR and add yours to this list.***
+*If you have created a collector or provider yourself, create a PR and add yours to this list.*
 
 ## List of collectors
 - **React collector example** by [Tripetto](https://github.com/tripetto/)
