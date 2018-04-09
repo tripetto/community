@@ -1,4 +1,4 @@
-![Tripetto](https://forms.tripetto.community/images/punchline.svg)
+![Tripetto](https://forms.tripetto.community/images/logo-full.svg)
 
 Tripetto Forms is a full-fledged form kit. Its graphical [**editor**](https://www.npmjs.com/package/@tripetto/forms-editor) covers powerful form creation – either stand-alone or as a brandable embedded solution. The supplementary [**collector**](https://www.npmjs.com/package/@tripetto/forms-collector) library handles form execution and response collection in any website or application. The UI is truly yours to rock. Also, you can extend both editor and collector with custom [**building blocks**](https://forms.tripetto.community/providers/) (e.g. question types).
 
