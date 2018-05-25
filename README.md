@@ -20,6 +20,10 @@ This repository contains a list of collectors and building blocks available in t
 
   https://gitlab.com/tripetto/examples/angular
 
+- **Angular Material collector example** by [Tripetto](https://github.com/tripetto/)
+
+  https://gitlab.com/tripetto/examples/angular-material
+
 - **Bootstrap collector example** by [Tripetto](https://github.com/tripetto/)
 
   https://gitlab.com/tripetto/examples/bootstrap
