@@ -1,6 +1,6 @@
-![Tripetto](https://docs.tripetto.community/assets/header.svg)
+![Tripetto](https://docs.tripetto.com/assets/header.svg)
 
-Tripetto is a full-fledged form kit. Rapidly create and deploy smart flowing forms and surveys. Drop the kit in your codebase and use all of it, or just the parts you need. The visual [**editor**](https://www.npmjs.com/package/tripetto) is for form creation, the [**collector**](https://www.npmjs.com/package/tripetto-collector) for response collection and the [**SDK**](https://docs.tripetto.community/blocks) for developing more form building blocks.
+Tripetto is a full-fledged form kit. Rapidly create and deploy smart flowing forms and surveys. Drop the kit in your codebase and use all of it, or just the parts you need. The visual [**editor**](https://www.npmjs.com/package/tripetto) is for form creation, the [**collector**](https://www.npmjs.com/package/tripetto-collector) for response collection and the [**SDK**](https://docs.tripetto.com/guide/blocks) for developing more form building blocks.
 
 # Collectors and blocks
 This repository contains a list of collectors and building blocks available in the public (open source) domain. We hope other enthusiasts will also start to develop stuff for Tripetto.
@@ -16,6 +16,10 @@ This repository contains a list of collectors and building blocks available in t
 
   https://gitlab.com/tripetto/examples/react-material-ui
 
+- **React conversational collector example** by [Tripetto](https://github.com/tripetto/)
+
+  https://gitlab.com/tripetto/examples/react-conversational
+
 - **Angular collector example** by [Tripetto](https://github.com/tripetto/)
 
   https://gitlab.com/tripetto/examples/angular
@@ -23,14 +27,6 @@ This repository contains a list of collectors and building blocks available in t
 - **Angular Material collector example** by [Tripetto](https://github.com/tripetto/)
 
   https://gitlab.com/tripetto/examples/angular-material
-
-- **Bootstrap collector example** by [Tripetto](https://github.com/tripetto/)
-
-  https://gitlab.com/tripetto/examples/bootstrap
-
-- **Plain collector example** by [Tripetto](https://github.com/tripetto/)
-
-  https://gitlab.com/tripetto/examples/plain
 
 ## List of blocks
 
