@@ -8,25 +8,35 @@ This repository contains a list of collectors and building blocks available in t
 *If you have created a collector or building block yourself, create a PR and add yours to this list.*
 
 ## List of collectors
-- **React collector example** by [Tripetto](https://github.com/tripetto/)
+- **React collector with Bootstrap example** by [Tripetto](https://github.com/tripetto/)
 
-  https://gitlab.com/tripetto/examples/react
+  Live demo: https://example-react-bootstrap.tripetto.com/
+
+  Code: https://gitlab.com/tripetto/examples/react
 
 - **React collector with Material-UI example** by [Tripetto](https://github.com/tripetto/)
 
-  https://gitlab.com/tripetto/examples/react-material-ui
+  Live demo: https://example-react-material-ui.tripetto.com/
+
+  Code: https://gitlab.com/tripetto/examples/react-material-ui
 
 - **React conversational collector example** by [Tripetto](https://github.com/tripetto/)
 
-  https://gitlab.com/tripetto/examples/react-conversational
+  Live demo: https://example-react-conversational.tripetto.com/
 
-- **Angular collector example** by [Tripetto](https://github.com/tripetto/)
+  Code: https://gitlab.com/tripetto/examples/react-conversational
 
-  https://gitlab.com/tripetto/examples/angular
+- **Angular collector with Bootstrap example** by [Tripetto](https://github.com/tripetto/)
+
+  Live demo: https://example-angular-bootstrap.tripetto.com/
+
+  Code: https://gitlab.com/tripetto/examples/angular
 
 - **Angular Material collector example** by [Tripetto](https://github.com/tripetto/)
 
-  https://gitlab.com/tripetto/examples/angular-material
+  Live demo: https://example-angular-material.tripetto.com/
+
+  Code: https://gitlab.com/tripetto/examples/angular-material
 
 ## List of blocks
 
