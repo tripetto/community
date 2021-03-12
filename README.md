@@ -1,38 +1,38 @@
 ![Tripetto](https://docs.tripetto.com/assets/header.svg)
 
-Tripetto is a full-fledged form kit. Rapidly create and deploy smart flowing forms and surveys. Drop the kit in your codebase and use all of it, or just the parts you need. The visual [**editor**](https://www.npmjs.com/package/tripetto) is for form creation, the [**collector**](https://www.npmjs.com/package/tripetto-collector) for response collection and the [**SDK**](https://docs.tripetto.com/guide/blocks) for developing more form building blocks.
+Tripetto is a full-fledged form kit. Rapidly create and deploy smart flowing forms and surveys. Drop the kit in your codebase and use all of it, or just the parts you need. The visual [**editor**](https://www.npmjs.com/package/tripetto) is for form creation, the [**runner**](https://www.npmjs.com/package/tripetto-runner) for response collection and the [**SDK**](https://docs.tripetto.com/guide/blocks) for developing more form building blocks.
 
-# Collectors and blocks
-This repository contains a list of collectors and building blocks available in the public (open source) domain. We hope other enthusiasts will also start to develop stuff for Tripetto.
+# Runners and blocks
+This repository contains a list of runners and building blocks available in the public (open source) domain. We hope other enthusiasts will also start to develop stuff for Tripetto.
 
-*If you have created a collector or building block yourself, create a PR and add yours to this list.*
+*If you have created a runner or building block yourself, create a PR and add yours to this list.*
 
-## List of collectors
-- **React collector with Bootstrap example** by [Tripetto](https://github.com/tripetto/)
+## List of runners
+- **React runner with Bootstrap example** by [Tripetto](https://github.com/tripetto/)
 
   Live demo: https://example-react-bootstrap.tripetto.com/
 
   Code: https://gitlab.com/tripetto/examples/react
 
-- **React collector with Material-UI example** by [Tripetto](https://github.com/tripetto/)
+- **React runner with Material-UI example** by [Tripetto](https://github.com/tripetto/)
 
   Live demo: https://example-react-material-ui.tripetto.com/
 
   Code: https://gitlab.com/tripetto/examples/react-material-ui
 
-- **React conversational collector example** by [Tripetto](https://github.com/tripetto/)
+- **React conversational runner example** by [Tripetto](https://github.com/tripetto/)
 
   Live demo: https://example-react-conversational.tripetto.com/
 
   Code: https://gitlab.com/tripetto/examples/react-conversational
 
-- **Angular collector with Bootstrap example** by [Tripetto](https://github.com/tripetto/)
+- **Angular runner with Bootstrap example** by [Tripetto](https://github.com/tripetto/)
 
   Live demo: https://example-angular-bootstrap.tripetto.com/
 
   Code: https://gitlab.com/tripetto/examples/angular
 
-- **Angular Material collector example** by [Tripetto](https://github.com/tripetto/)
+- **Angular Material runner example** by [Tripetto](https://github.com/tripetto/)
 
   Live demo: https://example-angular-material.tripetto.com/
 
